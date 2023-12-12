@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\bin\Debug\vucut-kitle-hesaplama.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\bin\Debug\vucut-kitle-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\bin\Debug\vucut-kitle-hesaplama.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut-kitle-hesaplama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut-kitle-hesaplama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut_kitle_hesaplama.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut_kitle_hesaplama.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut-kitle-hesaplama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut-kitle-hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut-kitle-hesaplama.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\vucut-kitle-hesaplama\vucut-kitle-hesaplama\obj\Debug\vucut-kitle-hesaplama.pdb
